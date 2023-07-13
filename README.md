@@ -6,7 +6,7 @@ This repository contains code for analyzing YouTube videos using the YouTube Dat
 - Simplified comments by text preprocessing and lemmatization
 - Generated NLP analysis with word frequency table and WordCloud
 
-# Prerequisites
+## Prerequisites
 Before running the code, you need to set up an API key. Follow these steps to obtain an API key:
 
 1) Go to the Google Cloud Console.
@@ -15,7 +15,7 @@ Before running the code, you need to set up an API key. Follow these steps to ob
 4) Go to the Credentials page and create a new API key.
 5) Copy the API key and replace the placeholder YOUR_API_KEY in the code with your actual API key.
 
-# Usage
+## Usage
 The code in this repository performs the following tasks:
 
 1) Searches for YouTube videos related to "The Matrix Resurrections" using the YouTube Data API.
@@ -28,10 +28,10 @@ The code in this repository performs the following tasks:
 8) Generates a word cloud visualization of the comments.
 9) Please ensure that you have replaced the YOUR_API_KEY placeholder in the code with your actual API key before running it.
 
-# Notes
+## Notes
 - This code was last updated in September 2021. It uses the google-api-python-client library to interact with the YouTube Data API. Please refer to the official documentation for any changes or updates to the API.
 - The code makes use of external libraries such as pandas, nltk, langdetect, matplotlib, seaborn, and wordcloud for data processing, analysis, and visualization. Make sure these libraries are installed before running the code.
 - The code assumes that you have already set up the necessary authentication and have the required permissions to access the YouTube Data API.
 
-# Most Frequent Words - Top 20
+## Most Frequent Words - Top 20
 ![](https://github.com/mustafagol/youtube_api/blob/025ee465a7c77ec20da3e5f5f2f82b665cd9dc85/WorldCloud.png)
