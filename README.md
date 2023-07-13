@@ -5,4 +5,4 @@
 - Generated NLP analysis with word frequency table and WordCloud
 
 # Most Freqeunt Words
-![] (https://github.com/mustafagol/youtube_api/blob/025ee465a7c77ec20da3e5f5f2f82b665cd9dc85/WorldCloud.png)
+![](https://github.com/mustafagol/youtube_api/blob/025ee465a7c77ec20da3e5f5f2f82b665cd9dc85/WorldCloud.png)
