@@ -29,7 +29,7 @@ The code in this repository performs the following tasks:
 9) Please ensure that you have replaced the YOUR_API_KEY placeholder in the code with your actual API key before running it.
 
 ## Notes
-- This code was last updated in September 2021. It uses the google-api-python-client library to interact with the YouTube Data API. Please refer to the official documentation for any changes or updates to the API.
+- This code was last updated in March 2023. It uses the google-api-python-client library to interact with the YouTube Data API. Please refer to the official documentation for any changes or updates to the API.
 - The code makes use of external libraries such as pandas, nltk, langdetect, matplotlib, seaborn, and wordcloud for data processing, analysis, and visualization. Make sure these libraries are installed before running the code.
 - The code assumes that you have already set up the necessary authentication and have the required permissions to access the YouTube Data API.
 
